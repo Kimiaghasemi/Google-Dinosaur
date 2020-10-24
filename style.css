@@ -2,6 +2,14 @@
     position: absolute;
     width: 60px;
     height: 60px;
-    background-color: red;
+    background-image: url(dino.png);
+    bottom: 0px;
+}
+
+.cactus {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-image:url(cactus.png);  
     bottom: 0px;
 }
